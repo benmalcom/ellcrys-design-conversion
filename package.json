@@ -1,0 +1,27 @@
+{
+  "name": "ellcrys-design-conversion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "NODE_ENV=development node-dev server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benmalcom/ellcrys-design-conversion.git"
+  },
+  "author": "benjaminikeji@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benmalcom/ellcrys-design-conversion/issues"
+  },
+  "homepage": "https://github.com/benmalcom/ellcrys-design-conversion#readme",
+  "devDependencies": {
+    "connect-livereload": "^0.6.0",
+    "livereload": "^0.7.0"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
